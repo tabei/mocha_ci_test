@@ -4,7 +4,7 @@ var fizzbuzz = require("../src/fizzbuzz.js");
 
 describe("fizzbuzz", function() {
     it("FizzBuzz", function() {
-        assert.equal("FizzBuzz", fizzbuzz.calc(15));
+        assert.equal("FizzBuzz", fizzbuzz.calc(14));
     });
 
     it("Buzz", function() {
