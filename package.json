@@ -1,0 +1,25 @@
+{
+  "name": "mocha_ci_test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabei/mocha_ci_test.git"
+  },
+  "author": "tabei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tabei/mocha_ci_test/issues"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  },
+  "homepage": "https://github.com/tabei/mocha_ci_test#readme"
+}
